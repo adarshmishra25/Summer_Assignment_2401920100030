@@ -1,4 +1,3 @@
-package Summer_Assignment_2401920100030.Week_1.Day_1;
 
 import java.util.HashMap;
 import java.util.Map;
