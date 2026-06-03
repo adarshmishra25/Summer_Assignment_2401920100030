@@ -1,4 +1,4 @@
-class Solution {
+class Solution3 {
     public double findMaxAverage(int[] nums, int k) {
         long currSum = 0;
         for(int i = 0 ; i < k ; i++){
